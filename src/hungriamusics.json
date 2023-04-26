@@ -1,0 +1,54 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Hungria Hip Hop"},
+                  "SongTitle": {"S": "Super Heroi (Acústico)"},
+                  "AlbumTitle": {"S": "Cheiro de Mato"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Hungria Hip Hop"},
+                  "SongTitle": {"S": "Um pedido (Acústico)"},
+                  "AlbumTitle": {"S": "Cheiro de Mato"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Hungria Hip Hop"},
+                  "SongTitle": {"S": "Hoje Ela Já Chorou (Acústico)"},
+                  "AlbumTitle": {"S": "Cheiro de Mato"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        }
+                {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Hungria Hip Hop"},
+                  "SongTitle": {"S": "Pisando na Lua (Acústico)"},
+                  "AlbumTitle": {"S": "Cheiro de Mato"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        }
+                {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Hungria Hip Hop"},
+                  "SongTitle": {"S": "Amor e Fé (Acústico)"},
+                  "AlbumTitle": {"S": "Cheiro de Mato"},
+                  "SongYear": {"S": "2020"}
+                }
+            }
+        }
+      ]
+}
